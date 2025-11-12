@@ -1,1 +1,6 @@
-selenium>=4.0.0
+Pillow==10.1.0
+opencv-python==4.8.1.78
+pytest==7.4.3
+ddddocr==1.5.1
+selenium>=4.8.0
+webdriver-manager>=3.8.5
